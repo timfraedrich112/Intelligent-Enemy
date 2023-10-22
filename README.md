@@ -2,11 +2,7 @@
 
 This game demonstrates a prototype agent that uses artificial intelligence to collect data on how the player fights the enemy, and changes its response accordingly
 
-<br>
-
 ### Demo Video: https://www.youtube.com/watch?v=2Ho-tiwPyu4&
-
-<br>
 
 - The agent uses a complex behavior tree. Vision sensors watch the player and keep track of different statistics such as:
   - The players distance from the agent.
@@ -16,8 +12,6 @@ This game demonstrates a prototype agent that uses artificial intelligence to co
 - The agent has 5 distinct and unique attacks. Where to move and aim, as well as which attack to use is decided by the behavior tree.
 - As a huge fan of Super Smash Bros, this project was inspired by how two real players would fight one another by learning habits and playstyles of their opponent in order to counter them.
 
-<br>
-
 #### Assets used from Unity Assets Store:
 
-  Behavior Bricks: https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816
+Behavior Bricks: https://assetstore.unity.com/packages/tools/visual-scripting/behavior-bricks-74816
